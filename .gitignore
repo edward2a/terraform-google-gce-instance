@@ -1,3 +1,6 @@
+# vim
+*.swp
+
 #  Local .terraform directories
 **/.terraform/*
 
@@ -7,3 +10,6 @@
 
 # .tfvars files
 *.tfvars
+
+# manual testing dir
+tests
